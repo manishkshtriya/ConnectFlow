@@ -22,6 +22,12 @@ Customer -> Amazon Connect -> IVR contact flow -> collect demo customer ID
                                   Connect agent
 ```
 
+## Download the complete source package
+
+[Download ConnectFlow source ZIP](./ConnectFlow_Source.zip) — includes the SAM template, Python Lambda functions, unit tests, sample data, and implementation guides.
+
+After downloading, extract the ZIP and follow `docs/deployment-guide.md`.
+
 ## Included
 - Customer lookup Lambda with input validation
 - Call event logging Lambda
